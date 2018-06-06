@@ -1,0 +1,7 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+demo/.terraform
+w1/.terraform
+.DS_Store
